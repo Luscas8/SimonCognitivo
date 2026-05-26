@@ -27,4 +27,4 @@ atenção contínua.
 Dessa forma, o projeto busca unir tecnologia, acessibilidade e treinamento cognitivo em um sistema simples, interativo e de baixo custo, demonstrando como microcontroladores podem ser aplicados de maneira prática em contextos educacionais e esportivos.
 
 
-## Simulador usado tinkercad
+## Simulado usado no tinkercad
