@@ -3,7 +3,7 @@
 ## SIMON Sistema de Treino Cognitivo
 
 Projeto de semestre #Aplic. de cloud, iot e indústria 4.0 em python.
-O professor heleno nos desafio para apresentar um sistema iot para apresentar no final do semestre, nisso um amigo teve uma ideia de fazer um jogo com funções cognitivas, nisso usamos:
+usamos:
 1 Arduino Uno, 4 LEDs coloridos, 4 botões, 4 resistores, 1 buzzer, 1 protoboard e Jumpers para conexão do circuito. 
 
 ## O que esse dispositivo treina?
