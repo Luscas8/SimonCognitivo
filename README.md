@@ -4,7 +4,12 @@
 
 Projeto de semestre #Aplic. de cloud, iot e indústria 4.0 em python.
 usamos:
-1 Arduino Uno, 4 LEDs coloridos, 4 botões, 4 resistores, 1 buzzer, 1 protoboard e Jumpers para conexão do circuito. 
+1 Arduino Uno,
+4 LEDs coloridos,
+4 botões, 
+4 resistores, 
+1 buzzer, 
+1 protoboard e Jumpers para conexão do circuito. 
 
 ## O que esse dispositivo treina?
 
