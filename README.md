@@ -4,6 +4,7 @@
 
 Projeto de semestre #Aplic. de cloud, iot e indústria 4.0 em python.
 usamos:
+
 1 Arduino Uno
 
 4 LEDs coloridos
